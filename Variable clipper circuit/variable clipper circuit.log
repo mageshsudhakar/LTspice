@@ -1,0 +1,17 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\smage\Documents\LTspice\Variable clipper circuit\variable clipper circuit.net
+Start Time: Thu Jul 24 22:17:16 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.186 seconds.
+
+Files loaded:
+C:\Users\smage\Documents\LTspice\Variable clipper circuit\variable clipper circuit.net
+C:\Users\smage\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\smage\AppData\Local\LTspice\lib\sub\pot.sub
+C:\Users\smage\AppData\Local\LTspice\lib\sub\LM741.lib
+
